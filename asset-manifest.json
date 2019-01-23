@@ -1,13 +1,13 @@
 {
-  "main.css": "https://frizadiga.github.io/kumparan/static/css/main.678c9a79.chunk.css",
-  "main.js": "https://frizadiga.github.io/kumparan/static/js/main.467ee22b.chunk.js",
-  "main.js.map": "https://frizadiga.github.io/kumparan/static/js/main.467ee22b.chunk.js.map",
-  "static/js/1.c5b414fd.chunk.js": "https://frizadiga.github.io/kumparan/static/js/1.c5b414fd.chunk.js",
-  "static/js/1.c5b414fd.chunk.js.map": "https://frizadiga.github.io/kumparan/static/js/1.c5b414fd.chunk.js.map",
-  "runtime~main.js": "https://frizadiga.github.io/kumparan/static/js/runtime~main.402c3ad4.js",
-  "runtime~main.js.map": "https://frizadiga.github.io/kumparan/static/js/runtime~main.402c3ad4.js.map",
-  "static/css/main.678c9a79.chunk.css.map": "https://frizadiga.github.io/kumparan/static/css/main.678c9a79.chunk.css.map",
-  "index.html": "https://frizadiga.github.io/kumparan/index.html",
-  "precache-manifest.ec8d889690eaac1e853ee00ab012c57a.js": "https://frizadiga.github.io/kumparan/precache-manifest.ec8d889690eaac1e853ee00ab012c57a.js",
-  "service-worker.js": "https://frizadiga.github.io/kumparan/service-worker.js"
+  "main.css": "/kumparan/static/css/main.678c9a79.chunk.css",
+  "main.js": "/kumparan/static/js/main.933ac3ce.chunk.js",
+  "main.js.map": "/kumparan/static/js/main.933ac3ce.chunk.js.map",
+  "static/js/1.c5b414fd.chunk.js": "/kumparan/static/js/1.c5b414fd.chunk.js",
+  "static/js/1.c5b414fd.chunk.js.map": "/kumparan/static/js/1.c5b414fd.chunk.js.map",
+  "runtime~main.js": "/kumparan/static/js/runtime~main.bdec7634.js",
+  "runtime~main.js.map": "/kumparan/static/js/runtime~main.bdec7634.js.map",
+  "static/css/main.678c9a79.chunk.css.map": "/kumparan/static/css/main.678c9a79.chunk.css.map",
+  "index.html": "/kumparan/index.html",
+  "precache-manifest.3ae003a1c2c0601cef801ac2c57d4f50.js": "/kumparan/precache-manifest.3ae003a1c2c0601cef801ac2c57d4f50.js",
+  "service-worker.js": "/kumparan/service-worker.js"
 }
