@@ -1,13 +1,13 @@
 {
-  "main.css": "/kumparan/static/css/main.956fc907.chunk.css",
-  "main.js": "/kumparan/static/js/main.6c804a99.chunk.js",
-  "main.js.map": "/kumparan/static/js/main.6c804a99.chunk.js.map",
-  "static/js/1.c5b414fd.chunk.js": "/kumparan/static/js/1.c5b414fd.chunk.js",
-  "static/js/1.c5b414fd.chunk.js.map": "/kumparan/static/js/1.c5b414fd.chunk.js.map",
-  "runtime~main.js": "/kumparan/static/js/runtime~main.bdec7634.js",
-  "runtime~main.js.map": "/kumparan/static/js/runtime~main.bdec7634.js.map",
-  "static/css/main.956fc907.chunk.css.map": "/kumparan/static/css/main.956fc907.chunk.css.map",
-  "index.html": "/kumparan/index.html",
-  "precache-manifest.f4a6a70287d87e9c55493b086a1a2daa.js": "/kumparan/precache-manifest.f4a6a70287d87e9c55493b086a1a2daa.js",
-  "service-worker.js": "/kumparan/service-worker.js"
+  "main.css": "/frizadiga/kumparan/static/css/main.678c9a79.chunk.css",
+  "main.js": "/frizadiga/kumparan/static/js/main.b2ed57e7.chunk.js",
+  "main.js.map": "/frizadiga/kumparan/static/js/main.b2ed57e7.chunk.js.map",
+  "static/js/1.c5b414fd.chunk.js": "/frizadiga/kumparan/static/js/1.c5b414fd.chunk.js",
+  "static/js/1.c5b414fd.chunk.js.map": "/frizadiga/kumparan/static/js/1.c5b414fd.chunk.js.map",
+  "runtime~main.js": "/frizadiga/kumparan/static/js/runtime~main.e312abe9.js",
+  "runtime~main.js.map": "/frizadiga/kumparan/static/js/runtime~main.e312abe9.js.map",
+  "static/css/main.678c9a79.chunk.css.map": "/frizadiga/kumparan/static/css/main.678c9a79.chunk.css.map",
+  "index.html": "/frizadiga/kumparan/index.html",
+  "precache-manifest.e447670d240a9a1cdb5795ec7444fe5b.js": "/frizadiga/kumparan/precache-manifest.e447670d240a9a1cdb5795ec7444fe5b.js",
+  "service-worker.js": "/frizadiga/kumparan/service-worker.js"
 }
