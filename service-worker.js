@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kumparan/precache-manifest.0e964880f11a529f48f35d49ee893490.js"
+  "https://frizadiga.github.io/kumparan/precache-manifest.ec8d889690eaac1e853ee00ab012c57a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/kumparan/index.html", {
+workbox.routing.registerNavigationRoute("https://frizadiga.github.io/kumparan/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
